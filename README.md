@@ -1,11 +1,13 @@
-# Visual-Studio-Code-Website-Clone
+# Visual Studio Code Website Clone
 
-This repository contains a clone of the Visual Studio Code landing page. The purpose of this project is to practice web development skills using HTML and CSS.
+A responsive HTML/CSS clone of the Visual Studio Code landing page to showcase front-end development skills.
+
+👉 **[View Live Demo](https://aetosdios27.github.io/Visual-Studio-Code-Website-Clone/)**
 
 ## Features
 
-- Responsive design that adapts to various screen sizes
-- Navigation menu similar to the original Visual Studio Code website
+- Responsive design adapting to various screen sizes
+- Navigation menu mirroring the original VS Code website
 - Sections for features, downloads, and community
 
 ## Technologies Used
@@ -15,17 +17,12 @@ This repository contains a clone of the Visual Studio Code landing page. The pur
 
 ## Getting Started
 
-To get a local copy of this project up and running on your machine, follow these steps:
+```bash
+# Clone the repository
+git clone https://github.com/aetosdios27/Visual-Studio-Code-Website-Clone.git
 
-1. **Clone the repository**
-   ```sh
-   git clone https://github.com/aetosdios27/Visual-Studio-Code-Website-Clone.git
-   ```
-2. **Navigate to the project directory**
-   ```sh
-   cd Visual-Studio-Code-Website-Clone
-   ```
-3. **Open the `index.html` file in your web browser to view the website**
+# Navigate to project directory
+cd Visual-Studio-Code-Website-Clone
+
+# Open index.html in your browser
 ```
-
-You can copy and paste this into your `README.md` file.
