@@ -6,7 +6,6 @@ A responsive HTML/CSS clone of the Visual Studio Code landing page to showcase f
 
 ## Features
 
-- Responsive design adapting to various screen sizes
 - Navigation menu mirroring the original VS Code website
 - Sections for features, downloads, and community
 
