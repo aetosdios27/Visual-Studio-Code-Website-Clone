@@ -1,10 +1,5 @@
 # Visual-Studio-Code-Website-Clone
 
-Here's the updated README for your Visual Studio Code Website Clone repository with the requested sections removed:
-
-```
-# Visual Studio Code Website Clone
-
 This repository contains a clone of the Visual Studio Code landing page. The purpose of this project is to practice web development skills using HTML and CSS.
 
 ## Features
@@ -12,7 +7,6 @@ This repository contains a clone of the Visual Studio Code landing page. The pur
 - Responsive design that adapts to various screen sizes
 - Navigation menu similar to the original Visual Studio Code website
 - Sections for features, downloads, and community
-- Footer with links to social media and other resources
 
 ## Technologies Used
 
